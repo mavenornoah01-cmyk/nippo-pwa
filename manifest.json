@@ -1,0 +1,19 @@
+{
+  "name": "日報メモ",
+  "short_name": "日報メモ",
+  "description": "1日の作業を記録してMD出力する日報アプリ",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#0d1117",
+  "orientation": "portrait",
+  "lang": "ja",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

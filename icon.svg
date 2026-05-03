@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Background -->
+  <rect width="512" height="512" rx="96" fill="#0d1117"/>
+  <!-- Notepad body -->
+  <rect x="128" y="136" width="256" height="300" rx="18" fill="#161b22" stroke="#2d5a8e" stroke-width="3"/>
+  <!-- Clip/header bar -->
+  <rect x="208" y="116" width="96" height="36" rx="10" fill="#2d5a8e"/>
+  <!-- Lines -->
+  <line x1="168" y1="218" x2="344" y2="218" stroke="#6db3f2" stroke-width="14" stroke-linecap="round"/>
+  <line x1="168" y1="270" x2="344" y2="270" stroke="#6db3f2" stroke-width="14" stroke-linecap="round"/>
+  <line x1="168" y1="322" x2="280" y2="322" stroke="#6db3f2" stroke-width="14" stroke-linecap="round"/>
+  <!-- Check mark accent -->
+  <polyline points="295,310 315,335 355,295" stroke="#6dd5a0" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>
